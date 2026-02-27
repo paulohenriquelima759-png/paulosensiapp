@@ -1,21 +1,28 @@
 body{
-background:#0a0000;
-color:white;
-text-align:center;
-font-family:Arial;
+  margin:0;
+  font-family:Arial;
+  background:#0b0000;
+  color:#fff;
+  text-align:center;
 }
 
 .logo{
-width:200px;
-margin-top:50px;
+  width:150px;
+  margin-top:20px;
 }
 
-button{
-background:red;
-border:none;
-padding:15px;
-color:white;
-font-size:18px;
-border-radius:10px;
-margin-top:20px;
+.btn{
+  background:red;
+  color:white;
+  border:none;
+  padding:10px;
+  margin:5px;
+  border-radius:5px;
+}
+
+.card{
+  background:#1a0000;
+  padding:20px;
+  margin:10px;
+  border-radius:10px;
 }
